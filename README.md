@@ -70,12 +70,23 @@ python app.py
 ---
 
 ## 📷 Output Screenshots
-(Add your project images here)
+<img width="1213" height="620" alt="image" src="https://github.com/user-attachments/assets/1d014c5c-0f5f-4aa3-8fc1-cdd878d703bb" />
+Giving input feeds
+<img width="1293" height="622" alt="image" src="https://github.com/user-attachments/assets/14562910-b1ed-4570-8a43-324d24bb1ead" />
+Captures real-time video from multiple traffic cameras and converts it into frames for processing.Enhances video quality using resizing, normalization, noise reduction, and contrast improvement
+<img width="1310" height="636" alt="image" src="https://github.com/user-attachments/assets/ece3eeef-3827-4fed-b4be-c0429cb166f2" />
+Uses YOLOv8 to detect vehicles with bounding boxes.Separates emergency vehicles (ambulance, fire truck, police) from normal vehicles.
+<img width="1265" height="611" alt="image" src="https://github.com/user-attachments/assets/ca841c51-7156-4881-add0-5fa9cbfd4f0b" />
+Analyzes traffic density, validates detections across frames, and decides between emergency priority or normal traffic flow.Controls traffic signals dynamically based on decisions and displays results on a dashboard with data storage for monitoring
+
 
 ---
 
 ## 👩‍💻 Author
-- Your Name
+Vaishnavi K
+Mohanraj N
+Saran R
+Vijayshankar M
 
 ---
 
